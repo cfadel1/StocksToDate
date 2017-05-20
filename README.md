@@ -1,4 +1,4 @@
-# Stocks_To_Date
+# Stocks to Date
 This a Windows Application created using C#. It is a Dynamic Information Interface application that fetches the price and status of gold, US dollar and European Euro on a daily basis using Yahoo Finance.
 
 ## How to run
